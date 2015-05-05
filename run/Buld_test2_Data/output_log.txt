@@ -1,0 +1,3726 @@
+Initialize engine version: 4.6.2f1 (bd99309c2ad7)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 10.0]
+    Renderer: NVIDIA Quadro FX 580 (ID=0x659)
+    Vendor:   NVIDIA
+    VRAM:     487 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Buld_test2_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Buld_test2_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Buld_test2_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Buld_test2_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Buld_test2_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Buld_test2_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Buld_test2_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Buld_test2_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Buld_test2_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Buld_test2_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.272 seconds
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Platform assembly: C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Buld_test2_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Buld_test2_Data\Managed\System.dll (this message is harmless)
+UnloadTime: 6.202751 ms
+System memory in use before: 10.6 MB.
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+System memory in use after: 10.5 MB.
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 320.
+Total: 1.948031 ms (FindLiveObjects: 0.037631 ms CreateObjectMapping: 0.020735 ms MarkObjects: 0.237311 ms  DeleteObjects: 0.011135 ms)
+
+DRAWPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+You just draw a card
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DrawCardLogic:DrawCard() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\DrawCardLogic.cs:11)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:21)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/DrawCardLogic.cs Line: 11)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+UnloadTime: 1.264127 ms
+System memory in use before: 10.4 MB.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+System memory in use after: 10.4 MB.
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 183.
+Total: 1.575935 ms (FindLiveObjects: 0.013823 ms CreateObjectMapping: 0.017663 ms MarkObjects: 0.213887 ms  DeleteObjects: 0.059903 ms)
+
+UnloadTime: 0.998783 ms
+System memory in use before: 10.5 MB.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+System memory in use after: 10.5 MB.
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 320.
+Total: 1.822079 ms (FindLiveObjects: 0.023423 ms CreateObjectMapping: 0.020735 ms MarkObjects: 0.239615 ms  DeleteObjects: 0.009599 ms)
+
+DRAWPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+You just draw a card
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DrawCardLogic:DrawCard() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\DrawCardLogic.cs:11)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:21)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/DrawCardLogic.cs Line: 11)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+State test
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SetCapsule:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\SetCapsule.cs:36)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/SetCapsule.cs Line: 36)
+
+PLACEPHASE
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameTurnSystem:Update() (at C:\Users\nanohero\Documents\GitHub\Capsule_Game\run\Assets\Systems\GameTurnSystem.cs:17)
+ 
+(Filename: C:/Users/nanohero/Documents/GitHub/Capsule_Game/run/Assets/Systems/GameTurnSystem.cs Line: 17)
+
+UnloadTime: 1.311743 ms
+System memory in use before: 10.4 MB.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+System memory in use after: 10.4 MB.
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 183.
+Total: 1.696511 ms (FindLiveObjects: 0.013823 ms CreateObjectMapping: 0.018047 ms MarkObjects: 0.215039 ms  DeleteObjects: 0.059903 ms)
+
